@@ -689,7 +689,7 @@ In this step, we'll test to make sure all the endpoint are working.
 
 ### Instructions
 
-* Import the provided `postman_collection` into postman and make sure all the tests pass.
+* Import the provided `postman_collection` into postman and make sure all the tests pass. (The tests depend on your server using port 3000, so if you used another port, you'll need to change it to pass the tests.)
 
 ### Solution
 
